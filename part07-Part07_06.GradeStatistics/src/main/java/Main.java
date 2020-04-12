@@ -8,5 +8,9 @@ public class Main {
         
         // Write your program here -- consider breaking the program into 
         // multiple classes.
+        Point points = new Point();
+        
+        UserInterface user = new UserInterface(points, scanner);
+        user.start();
     }
 }
