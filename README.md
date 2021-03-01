@@ -1,3 +1,5 @@
 # Helsinki-MOOC-Java-Programming-I
 
-My solutions to the java programming course by the University of Helsinki
+My solutions to The University of HElsinki's java MOOC 
+
+[link to MOOC](https://java-programming.mooc.fi/)
